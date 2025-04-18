@@ -4,7 +4,7 @@ I've been reading Vaclav Smil's books lately and decided to try doing some analy
 
 ## What I'm Trying to Do
 
-I put together some Jupyter notebooks that look at global energy from three different angles. I'm trying to use Smil's super-detailed, numbers-focused approach. As he keeps saying in his books, energy transitions take DECADES not years (politicians never seem to get this!).
+I put together some Jupyter notebooks that look at global energy from four different angles. I'm trying to use Smil's super-detailed, numbers-focused approach. As he keeps saying in his books, energy transitions take DECADES not years (politicians never seem to get this!).
 
 ## My Notebooks
 
@@ -22,6 +22,11 @@ What I found: Coal-based systems are TERRIBLE (like 8-10x worse than nuclear or 
 This one's inspired by how Smil always emphasizes SCALE and PHYSICAL QUANTITIES. I looked at who's using the most fossil fuels, both total and per person.
 
 What I found: Just 10 countries use over 70% of all fossil fuels!! And the gulf states use CRAZY amounts per person (like 24-31× global average). Also, China's consumption has gone up 700% since 2000 - just like Smil warns about developing country growth.
+
+### 4. Energy Mix Development Analysis (1970-2022)
+My newest analysis looks at how energy sources (coal, oil, gas, nuclear, renewables) have evolved over time globally and in key countries. This directly examines the energy transitions Smil writes so much about.
+
+What I found: Energy transitions really ARE slow (just like Smil says) - most countries only increase renewables by 0.3-0.7 percentage points per year. Also saw how natural gas serves as a "bridge fuel" exactly as Smil describes. Even renewable leaders like Denmark took 20+ years to transform their systems.
 
 ## How I Tried to Copy Smil's Approach
 
